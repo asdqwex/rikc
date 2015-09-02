@@ -1,0 +1,8 @@
+path = value
+chef_user = value
+cloud_id_uri = value
+pwdsafe_project = value
+password_safe_uri = value
+proxy_host = value
+proxy_key = value
+proxy_user = value

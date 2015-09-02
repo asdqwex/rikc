@@ -1,6 +1,12 @@
 # rikc
 Racker Interactive Knife Console
 
+#### PreReqs
+
+1. chef_block to namespace chef configs : https://github.com/knife-block/knife-block
+2. companies knives for customer configs
+3. .stabby file (see example in repo)
+
 #### Usage
 
     # opens rikc console
