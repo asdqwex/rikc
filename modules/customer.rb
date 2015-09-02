@@ -1,0 +1,1 @@
+# Module that manages a customer cookbook localy, on github and on the chef server
