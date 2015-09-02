@@ -1,1 +1,0 @@
-# manages chef role data, configuration and connection to
