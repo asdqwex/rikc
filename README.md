@@ -64,10 +64,10 @@ Racker Interactive Knife Console
         
 #### Relavent Files/Directory's and Structure
 
-    - /home/username
-    	- 
-        - .chef
-        - cookbooks
+    - /home/username - Your home directory
+    	- .rikc - The config file for RIKC
+        - .chef - Where all your knives from knife block should live
+        - cookbooks - Where you store your customers cookbooks
 
 
     
